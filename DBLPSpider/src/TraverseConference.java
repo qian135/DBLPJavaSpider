@@ -3,12 +3,6 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
 class TraverseConference {
-	
-	private ExecuteSQL mExecuteSQL;
-
-	public TraverseConference() {
-		mExecuteSQL = new ExecuteSQL();
-	}
 
 	public void traverseConference() {
 		String[] conferenceName = { "ASPLOS" };
@@ -22,7 +16,7 @@ class TraverseConference {
 			boolean flag = true;
 			ExecutorService service = Executors.newFixedThreadPool(thcnt);
 			for (int th = 0; th < thcnt && flag; th++) {
-				GetNetString net = new GetNetString(url, conferenceName[i], mExecuteSQL, yearLimit);
+				GetNetString net = new GetNetString(url, conferenceName[i], yearLimit);
 				service.submit(net);
 			}
 			service.shutdown();

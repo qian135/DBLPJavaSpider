@@ -27,14 +27,12 @@ class GetNetString implements Callable<Boolean> {// 获取网页源代码字符�
 	
 	private String conference;
 	private int start;
-	private ExecuteSQL exc;
 	private int yearLimit;
 	private int id;
 
-	public GetNetString(String url, String conference, ExecuteSQL exc, int yearLimit) {
+	public GetNetString(String url, String conference, int yearLimit) {
 		super();
 		this.conference = conference;
-		this.exc = exc;
 		this.yearLimit = yearLimit;
 		this.basseUrl = url;
 		reset();
@@ -42,6 +40,7 @@ class GetNetString implements Callable<Boolean> {// 获取网页源代码字符�
 
 	@Override
 	public Boolean call() throws Exception {
+		ExecuteSQL exc = new ExecuteSQL();
 		while (flag) {
 			System.out.println(id + " : start download records from " + start + " to " + (start + paperNum));
 			String sourceString = null;
@@ -83,6 +82,7 @@ class GetNetString implements Callable<Boolean> {// 获取网页源代码字符�
 
 			reset();
 		}
+		exc.release();
 		return flag;
 	}
 

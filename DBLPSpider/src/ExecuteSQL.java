@@ -1,5 +1,4 @@
 import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.List;
@@ -8,24 +7,19 @@ public class ExecuteSQL {
 
 	private Connection mConnection;
 
-	static {
-		try {
-			Class.forName("com.mysql.jdbc.Driver");
-		} catch (ClassNotFoundException e) {
-			e.printStackTrace();
-		}
-	}
-
 	public ExecuteSQL() {
 		try {
 			// 连接数据库dblp（mysql默认的用户名和密码是root,root）
-			mConnection = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/db1", "snowwolf", "snowwolf"); // 链接本地MYSQL
+			mConnection = DBUtils.getConnection();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-
 	}
 
+	public void release() {
+		DBUtils.releaseConnection(mConnection);
+	}
+	
 	public void createTables() {
 		// create table Paper_Author-- 创建论文及作者姓名关联表
 		// (
@@ -64,7 +58,6 @@ public class ExecuteSQL {
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
-
 	}
 
 	public void insertToPaper_AuthorTable(Node node) {

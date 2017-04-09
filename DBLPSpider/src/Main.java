@@ -12,6 +12,7 @@ public class Main {
 		ExecuteSQL executeSQL = new ExecuteSQL();
 		executeSQL.dropTables();
 		executeSQL.createTables();
+		executeSQL.release();
 
 		long start = System.currentTimeMillis();
 
