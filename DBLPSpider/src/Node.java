@@ -3,14 +3,23 @@ import java.util.List;
 
 public class Node {
 
-	String title;
-	String conference;
-	int year;
-	String pagination;
-	List<String> authors;
+	private int id;
+	private String title;
+	private String conference;
+	private int year;
+	private String pagination;
+	private List<String> authors;
 	
-	Node() {
+	public Node() {
 		authors = new ArrayList<String>();
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
 	}
 
 	public String getTitle() {

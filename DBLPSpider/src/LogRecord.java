@@ -9,14 +9,13 @@ public class LogRecord {
 	private String time;
 	private FileWriter fileWriter;
 	
-	LogRecord() {
+	public LogRecord() {
 		Date date = new Date();
         DateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         time = format.format(date);
         try {
 			fileWriter = new FileWriter("Exception.txt",true);
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
@@ -28,7 +27,6 @@ public class LogRecord {
 			fileWriter.flush();
 	        fileWriter.close();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}   
 	}
@@ -39,7 +37,6 @@ public class LogRecord {
 			fileWriter.flush();
 	        fileWriter.close();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}   
 	}
