@@ -1,0 +1,30 @@
+2017-04-08 11:08:47
+发送GET请求出现异常！java.io.IOException: Server returned HTTP response code: 500 for URL: http://dblp.dagstuhl.de/search/publ/inc?q=ASPLOS&h=30&f=0
+2017-04-08 11:11:03
+发送GET请求出现异常！java.io.IOException: Server returned HTTP response code: 500 for URL: http://dblp.dagstuhl.de/search/publ/inc?q=ASPLOS&h=30&f=0
+2017-04-08 11:12:10
+发送GET请求出现异常！java.io.IOException: Server returned HTTP response code: 500 for URL: http://dblp.dagstuhl.de/search/publ/inc?q=ASPLOS&h=30&f=0
+2017-04-08 13:46:21
+发送GET请求出现异常！java.net.SocketException: Connection reset
+2017-04-08 13:46:22
+发送GET请求出现异常！java.net.UnknownHostException: dblp.dagstuhl.de
+2017-04-08 13:46:51
+发送GET请求出现异常！java.net.UnknownHostException: dblp.dagstuhl.de
+2017-04-08 13:46:53
+发送GET请求出现异常！java.net.UnknownHostException: dblp.dagstuhl.de
+2017-04-08 13:46:54
+发送GET请求出现异常！java.net.UnknownHostException: dblp.dagstuhl.de
+2017-04-08 13:46:55
+发送GET请求出现异常！java.net.UnknownHostException: dblp.dagstuhl.de
+2017-04-08 13:46:56
+发送GET请求出现异常！java.net.UnknownHostException: dblp.dagstuhl.de
+2017-04-08 13:46:57
+发送GET请求出现异常！java.net.UnknownHostException: dblp.dagstuhl.de
+2017-04-08 13:46:58
+发送GET请求出现异常！java.net.UnknownHostException: dblp.dagstuhl.de
+2017-04-08 13:46:59
+发送GET请求出现异常！java.net.UnknownHostException: dblp.dagstuhl.de
+2017-04-08 13:47:00
+发送GET请求出现异常！java.net.UnknownHostException: dblp.dagstuhl.de
+2017-04-08 13:47:01
+发送GET请求出现异常！java.net.UnknownHostException: dblp.dagstuhl.de

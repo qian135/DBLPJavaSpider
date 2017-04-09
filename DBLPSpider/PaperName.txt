@@ -1,0 +1,2730 @@
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers
+AMNESIAC: Amnesic Automatic Computer
+Voltage Regulator Efficiency Aware Power Management
+Breaking the Boundaries in Heterogeneous-ISA Datacenters
+Translation-Triggered Prefetching
+Improving Datacenter Efficiency
+Black-box Concurrent Data Structures for NUMA Architectures
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors
+CHERI JNI: Sinking the Java Security Model into the C
+Sound Loop Superoptimization for Google Native Client
+Efficient Address Translation for Architectures with Multiple Page Sizes
+Bolt: I Know What You Did Last Summer... In The Cloud
+Exploiting Intra-Request Slack to Improve SSD Performance
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace
+AsyncClock: Scalable Inference of Asynchronous Event Causality
+Towards "Full Containerization" in Containerized Network Function Virtualization
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path
+Approximate Storage of Compressed and Encrypted Videos
+Mallacc: Accelerating Memory Allocation
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge
+Moonwalk: NRE Optimization in ASIC Clouds
+Typed Architectures: Architectural Support for Lightweight Scripting
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy
+ReFlex: Remote Flash &#8776; Local Flash
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling
+Page Fault Support for Network Controllers
