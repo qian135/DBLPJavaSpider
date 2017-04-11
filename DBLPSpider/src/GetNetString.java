@@ -1,8 +1,10 @@
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
-import java.net.SocketTimeoutException;
 import java.net.URL;
+import java.sql.Connection;
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.Callable;
@@ -14,17 +16,25 @@ import org.jsoup.select.Elements;
 
 class GetNetString implements Callable<Boolean> {// 获取网页源代码字符串
 
-	public static final int paperNum = 30;
-	public static int startPageIndex = 0;
-	private static boolean flag = true;
+	// 每页论文数量
+	public static final int paperNum = 100;
 
+	// 每页开始的论文编号
+	public static int startPageIndex;
+
+	// 当前会议是否完成
+	private static boolean flag;
+
+	// 已经创建的实例数
 	private static int cnt = 1;
-	private static final int CONNECTION_TIMEOUT = 30 * 1000; // 设置请求超时30秒钟 根据业务调整
+
+	private static final int CONNECTION_TIMEOUT = 30 * 1000; // 设置请求超时30秒钟
+																// 根据业务调整
 	private static final int READ_TIMEOUT = 30 * 1000; // 设置等待数据超时时间30秒钟 根据业务调整
 
 	private final String basseUrl;
 	private String url;// 输入的网址
-	
+
 	private String conference;
 	private int start;
 	private int yearLimit;
@@ -38,59 +48,77 @@ class GetNetString implements Callable<Boolean> {// 获取网页源代码字符�
 		reset();
 	}
 
-	@Override
-	public Boolean call() throws Exception {
-		ExecuteSQL exc = new ExecuteSQL();
-		while (flag) {
-			System.out.println(id + " : start download records from " + start + " to " + (start + paperNum));
-			String sourceString = null;
-			int timeout = 0;
-			while (timeout < 3) {
-				try {
-					sourceString = creatResult();// 源网页字符串
-					break;
-				} catch (SocketTimeoutException e) {
-					try {
-						Thread.sleep(3000);
-					} catch (InterruptedException e2) {
-						e2.printStackTrace();
-					}
-					timeout++;
-					if (timeout == 3) {
-						e.printStackTrace();
-						LogRecord logRecord = new LogRecord();
-						logRecord.recordSocketTimeoutException(e, url);
-					}
-				} catch (RuntimeException e) {
-					e.printStackTrace();
-				}
-			}
-
-			if (sourceString != null) {
-				System.out.println(id + " : finished download records from " + start + " to " + (start + paperNum));
-				List<Node> nodes = parse(sourceString);
-				System.out.println(id + " : parse records from " + start + " to " + (start + paperNum));
-
-				for (Node n : nodes) {
-					exc.insertToPaperTable(n);
-					exc.insertToPaper_AuthorTable(n);
-				}
-				System.out.println(id + " : save records from " + start + " to " + (start + paperNum));
-			} else {
-				System.out.println(id + " : failed to download records from " + start + " to " + (start + paperNum));
-			}
-
-			reset();
-		}
-		exc.release();
-		return flag;
+	public void reset() {
+		this.start = startPageIndex;
+		this.url = basseUrl + "?q=" + conference + "&h=" + String.valueOf(paperNum) + "&f="
+				+ String.valueOf(this.start);
+		startPageIndex += paperNum;
+		id = cnt++;
 	}
 
-	public String creatResult() throws SocketTimeoutException {
+	public static void resetAll() {
+		startPageIndex = 0;
+		flag = true;
+	}
+
+	@Override
+	public Boolean call() {
+		
+		while (flag) {
+			// System.out.println(id + " : start download records from " + start
+			// + " to " + (start + paperNum));
+			int error = 0;
+			Exception ex = null;
+			while (error < 3) {
+				Connection conn = null;
+				try {
+					conn = DBUtils.getConnection();
+					conn.setAutoCommit(false);
+					execute(conn);
+					conn.commit();
+					break;
+				} catch (Exception e) {
+					System.out.println("mission failed from " + start + " to " + (start + paperNum) + "will retry(" + ++error + ") ...");
+					e.printStackTrace();
+					ex = e;
+				} finally {
+					if(conn != null) {
+						try {
+							conn.setAutoCommit(true);
+						} catch (SQLException e) {
+							e.printStackTrace();
+						}
+						DBUtils.releaseConnection(conn);
+					}
+				}
+			}
+			if (error == 3) {
+				System.out.println("mission failed from " + start + " to " + (start + paperNum));
+				LogRecord logRecord = new LogRecord();
+				logRecord.recordSocketTimeoutException(ex, url);
+			}
+			reset();
+		}
+		return flag;
+
+	}
+
+	public void execute(Connection conn) throws Exception {
+		ExecuteSQL exc = new ExecuteSQL();
+		String sourceString = creatResult();// 源网页字符串
+		if (sourceString != null) {
+			List<Node> nodes = parse(sourceString);
+			exc.insertToPaperTable(conn, nodes);
+			exc.insertToPaper_AuthorTable(conn, nodes);
+			System.out.println(id + " : save records from " + start + " to " + (start + paperNum) + ", last one ["
+					+ (nodes.size() > 0 ? nodes.get(nodes.size() - 1) : null) + "]");
+		}
+	}
+
+	public String creatResult() throws IOException {
 		StringBuilder result = new StringBuilder();
 		// 定义一个缓冲字符输入流
 		BufferedReader in = null;
-		try {
 			// 将string转成url对象
 			URL realUrl = new URL(url);
 			// 初始化一个链接到那个url的连接
@@ -117,31 +145,23 @@ class GetNetString implements Callable<Boolean> {// 获取网页源代码字符�
 				// 遍历抓取到的每一行并将其存储到result里面
 				result.append(line);
 			}
-			return result.toString();
-		} catch (SocketTimeoutException e) {
-			throw e;
-		} catch (Exception e) {
-			throw new RuntimeException(e);
-		} finally {// 使用finally来关闭输入流
-			try {
-				if (in != null) {
-					in.close();
-				}
-			} catch (Exception e2) {
-				e2.printStackTrace();
+			if (in != null) {
+				in.close();
 			}
-		}
+			return result.toString();
 	}
 
 	public List<Node> parse(String html) {
 		List<Node> nodes = new ArrayList<Node>();
 		Document doc = Jsoup.parse(html);
 		Elements elems = doc.select("div.data[itemprop=headline]");
+		if(elems.isEmpty()) {
+			flag = false;
+			return nodes;
+		}
 
-		int i = start;
 		for (Element record : elems) {
 			Node n = new Node();
-			n.setId(i++);
 
 			Elements authorList = record.select("span[itemprop=author] span[itemprop=name]");
 			for (Element authorSpan : authorList) {
@@ -183,14 +203,6 @@ class GetNetString implements Callable<Boolean> {// 获取网页源代码字符�
 			nodes.add(n);
 		}
 		return nodes;
-	}
-
-	public void reset() {
-		this.start = startPageIndex;
-		this.url = basseUrl + "?q=" + conference + "&h=" + String.valueOf(paperNum) + "&f="
-				+ String.valueOf(this.start);
-		startPageIndex += paperNum;
-		id = cnt++;
 	}
 
 }

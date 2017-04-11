@@ -3,7 +3,6 @@ import java.util.List;
 
 public class Node {
 
-	private int id;
 	private String title;
 	private String conference;
 	private int year;
@@ -12,14 +11,6 @@ public class Node {
 	
 	public Node() {
 		authors = new ArrayList<String>();
-	}
-
-	public int getId() {
-		return id;
-	}
-
-	public void setId(int id) {
-		this.id = id;
 	}
 
 	public String getTitle() {
@@ -60,6 +51,12 @@ public class Node {
 
 	public void setAuthors(List<String> authors) {
 		this.authors = authors;
+	}
+
+	@Override
+	public String toString() {
+		return "Node [title=" + title + ", conference=" + conference + ", year=" + year + ", pagination=" + pagination
+				+ ", authors=" + authors + "]";
 	}
 	
 }

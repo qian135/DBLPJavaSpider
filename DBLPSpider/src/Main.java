@@ -1,18 +1,20 @@
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
+import java.sql.Connection;
 
 public class Main {
 
 	public static void main(String[] args) {
 		
-//		redirectSysout("D:\\out.txt");
-//		redirectSyserr("D:\\err.txt");
+		redirectSysout("D:\\out.txt");
+		redirectSyserr("D:\\err.txt");
 
 		ExecuteSQL executeSQL = new ExecuteSQL();
-		executeSQL.dropTables();
-		executeSQL.createTables();
-		executeSQL.release();
+		Connection conn = DBUtils.getConnection();
+		executeSQL.dropTables(conn);
+		executeSQL.createTables(conn);
+		DBUtils.releaseConnection(conn);
 
 		long start = System.currentTimeMillis();
 

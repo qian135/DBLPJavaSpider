@@ -20,8 +20,14 @@ public class DBUtils {
 	 * @return
 	 * @throws SQLException
 	 */
-	public static Connection getConnection() throws SQLException {
-		return dataSource.getConnection();
+	public static Connection getConnection() {
+		try {
+			return dataSource.getConnection();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return null;
 	}
 	
 	/**
